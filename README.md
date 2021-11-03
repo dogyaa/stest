@@ -10,5 +10,5 @@
 
 #### 目次
 
- 1. [Hot Soup Processor (HSP) で昔作ったゲームが出て来たので、Windows XP 仮想マシンで動かしてみた](https://github.com/stest10/stest/blob/main/Rbody/stest1.md)
- 2. [リプレイ動画を再生するためのテスト (YouTube 埋め込み)](https://github.com/stest10/stest/blob/main/Rbody/stest2.md)
+ 1. [Hot Soup Processor (HSP) で昔作ったゲームが出て来たので、Windows XP 仮想マシンで動かしてみた](https://github.com/stest10/stest/blob/main/body/stest1.md)
+ 2. [リプレイ動画を再生するためのテスト (YouTube 埋め込み)](https://github.com/stest10/stest/blob/main/body/stest2.md)
