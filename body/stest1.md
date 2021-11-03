@@ -27,6 +27,4 @@ Windows 10 だとそもそも表示されない等云々
 
 ![](https://github.com/stest10/stest/blob/main/ss/7.png?raw=true)
 
-![](https://github.com/stest10/stest/blob/main/ss/8.png?raw=true)
-
 
