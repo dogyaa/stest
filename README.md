@@ -1,6 +1,14 @@
 ### Hot Soup Processor (HSP) で昔作ったゲームが出て来たので Windows10 で動かしてみた
 
+スクリーンショット
+
 ![](https://github.com/stest10/stest/blob/main/ss/0.png?raw=true)
+
+　
+
+ショートリプレイ動画
+
+[![](http://img.youtube.com/vi/Q0Wz8NwU0zc/0.jpg)](https://www.youtube.com/watch?v=Q0Wz8NwU0zc)
 
 私が学生時代に作ったシューティングゲーム (STG) を紹介しています。Hot Soup Processor (HSP) という言語で作った、いわゆる弾幕系の縦スクロール STG です。
 
