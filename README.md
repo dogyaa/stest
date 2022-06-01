@@ -22,6 +22,6 @@
 #### 目次
 
  1. [ことの始まり](https://github.com/stest10/stest/blob/main/articles/stest1.md)
- 2. [Windows XP 仮想マシンで動かしてみた](https://github.com/stest10/stest/blob/main/body/stest2.md) (まだ)
- 3. [リプレイ動画を作成してみた](https://github.com/stest10/stest/blob/main/body/stest3.md) (まだ)
+ 2. [仮想マシン上で動かしてみた](https://github.com/stest10/stest/blob/main/articles/stest2.md)
+ 3. [リプレイ動画を作成してみた](https://github.com/stest10/stest/blob/main/articles/stest3.md)
  4. (準備中)
