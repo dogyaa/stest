@@ -24,4 +24,5 @@
  1. [ことの始まり](https://github.com/stest10/stest/blob/main/articles/stest1.md)
  2. [仮想マシン上で動かしてみた](https://github.com/stest10/stest/blob/main/articles/stest2.md)
  3. [リプレイ動画を作成してみた](https://github.com/stest10/stest/blob/main/articles/stest3.md)
- 4. (準備中)
+ 4. [Windows 10 で動かしてみた](https://github.com/stest10/stest/blob/main/articles/stest4.md)
+ 5. (準備中)
